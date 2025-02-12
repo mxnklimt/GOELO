@@ -1,4 +1,20 @@
-﻿  main.cpp
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppClean.targets(77,5): warning : 文件“c:\users\mxnkilmt\documents\github\go_elo\mygui\project1\project1\x64\debug\project1.ilk”正由另一进程使用，因此该进程无法访问此文件。
+  ELO_Calculate.cpp
+C:\Users\mxnkilmt\Documents\GitHub\GO_ELO\mygui\Project1\Project1\ELO_Calculate.cpp(6,16): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+C:\Users\mxnkilmt\Documents\GitHub\GO_ELO\mygui\Project1\Project1\ELO_Calculate.cpp(12,71): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\mxnkilmt\Documents\GitHub\GO_ELO\mygui\Project1\Project1\ELO_Calculate.cpp(12,57): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\mxnkilmt\Documents\GitHub\GO_ELO\mygui\Project1\Project1\ELO_Calculate.cpp(13,75): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\mxnkilmt\Documents\GitHub\GO_ELO\mygui\Project1\Project1\ELO_Calculate.cpp(13,59): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\mxnkilmt\Documents\GitHub\GO_ELO\mygui\Project1\Project1\ELO_Calculate.cpp(16,30): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\mxnkilmt\Documents\GitHub\GO_ELO\mygui\Project1\Project1\ELO_Calculate.cpp(17,32): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_dx11.cpp
+  imgui_impl_win32.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  main.cpp
 C:\Users\mxnkilmt\Documents\GitHub\GO_ELO\mygui\Project1\Project1\main.cpp(165,47): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
 C:\Users\mxnkilmt\Documents\GitHub\GO_ELO\mygui\Project1\Project1\main.cpp(167,29): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
 C:\Users\mxnkilmt\Documents\GitHub\GO_ELO\mygui\Project1\Project1\main.cpp(181,65): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
@@ -7,4 +23,6 @@ C:\Users\mxnkilmt\Documents\GitHub\GO_ELO\mygui\Project1\Project1\main.cpp(190,2
 C:\Users\mxnkilmt\Documents\GitHub\GO_ELO\mygui\Project1\Project1\main.cpp(194,15): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
 C:\Users\mxnkilmt\Documents\GitHub\GO_ELO\mygui\Project1\Project1\main.cpp(213,101): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
 C:\Users\mxnkilmt\Documents\GitHub\GO_ELO\mygui\Project1\Project1\main.cpp(213,81): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+  正在生成代码...
+  LINK : 没有找到 C:\Users\mxnkilmt\Documents\GitHub\GO_ELO\mygui\Project1\x64\Debug\Project1.exe 或上一个增量链接没有生成它；正在执行完全链接
   Project1.vcxproj -> C:\Users\mxnkilmt\Documents\GitHub\GO_ELO\mygui\Project1\x64\Debug\Project1.exe
